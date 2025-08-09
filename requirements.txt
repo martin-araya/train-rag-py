@@ -1,0 +1,9 @@
+chromadb
+robyn
+chromadb-client
+langchain
+langchain-community
+pymupdf
+sentence-transformers
+langchain_core
+urllib.parse
